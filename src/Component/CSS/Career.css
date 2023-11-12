@@ -1,0 +1,19 @@
+#career{
+  font-family: 'Gowun Dodum', sans-serif;
+  margin-left: 20px;
+}
+fieldset {
+  width: 1500px;
+  margin-left: 10px;
+  font-weight: lighter;
+}
+legend{
+  font-size: 30px;
+  font-weight: bold;
+}
+h{
+  font-size: 30px;
+}
+p{
+  font-size: 25px;
+}

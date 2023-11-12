@@ -1,0 +1,21 @@
+
+
+#header{
+  font-family: 'Gowun Dodum', sans-serif;
+  margin-left: 20px;
+  margin-bottom: 50px;
+  font-size: 70px;
+  font-weight: bold;
+}
+.img img{
+  float: left;
+  margin-top: 50px;
+  height: 600px;
+  width: 400px;
+}
+.text{
+  font-size: 30px;
+  margin-left: 500px;
+  margin-top: 50px;
+  font-weight: lighter;
+}

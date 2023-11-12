@@ -1,0 +1,11 @@
+
+
+.img1 img{
+  float: left;
+  margin-left: 20px;
+  height: 600px;
+  width: 400px;
+}
+.text{
+  font-family: 'Gowun Dodum', sans-serif;
+}

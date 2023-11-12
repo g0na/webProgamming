@@ -1,0 +1,20 @@
+#contest{
+  margin-left: 20px;
+  font-family: 'Gowun Dodum', sans-serif;
+}
+img{
+  width:1500px;
+  height:800px;
+}
+fieldset {
+  width: 1500px;
+  margin-left: 50px;
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+legend{
+  font-size: 30px;
+}
+li{
+  font-size: 25px;
+}
